@@ -15,7 +15,7 @@ https://play.google.com/store/apps/details?id=x.org.server
 DF works with termux in two different way -with graphical and sound output via xserver XSDLand
 ,or in native termux window.
 
-Download
+# Download
 in termux type:
 
 apt-get install proot
@@ -24,9 +24,9 @@ termux-setup-storage
 #accept all requirements
 
 am start -a android.intent.action.VIEW -d "content://com.android.externalstorage.documents/root/primary"
-# copy df.tgz to termux folder via native android file manager
+#copy df.tgz to termux folder via native android file manager
 
-# unpack archive with command
+#unpack archive with command
 tar -zxf df.tgz --recursive-unlink --preserve-permissions
 
 on your phone launcher create termuz widget and launch df txt or df graphics
