@@ -15,8 +15,10 @@ https://play.google.com/store/apps/details?id=x.org.server
 DF works with termux in two different way -with graphical and sound output via xserver XSDLand
 ,or in native termux window.
 
-# Download
-in termux type:
+Download
+https://drive.google.com/file/d/1KxYY9uN1xWXz9bIvHZ0hG56xDGnUpSFy/view?usp=drivesdk
+
+In termux type:
 
 apt-get install proot
 
