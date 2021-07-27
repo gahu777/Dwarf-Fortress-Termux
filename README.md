@@ -31,6 +31,7 @@ am start -a android.intent.action.VIEW -d "content://com.android.externalstorage
 #copy df.tgz to termux folder via native android file manager
 
 #unpack archive with command
+
 tar -zxf df.tgz --recursive-unlink --preserve-permissions
 
 on your phone launcher create termuz widget and launch df txt or df graphics
