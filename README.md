@@ -27,6 +27,7 @@ termux-setup-storage
 #accept all requirements
 
 am start -a android.intent.action.VIEW -d "content://com.android.externalstorage.documents/root/primary"
+
 #copy df.tgz to termux folder via native android file manager
 
 #unpack archive with command
