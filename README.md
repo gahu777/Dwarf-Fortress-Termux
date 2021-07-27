@@ -23,6 +23,7 @@ In termux type:
 apt-get install proot
 
 termux-setup-storage
+
 #accept all requirements
 
 am start -a android.intent.action.VIEW -d "content://com.android.externalstorage.documents/root/primary"
