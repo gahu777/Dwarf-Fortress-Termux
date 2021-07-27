@@ -31,7 +31,7 @@ tar -zxf df.tgz --recursive-unlink --preserve-permissions
 
 on your phone launcher create termuz widget and launch df txt or df graphics
 (if you want sound or sound and graphics launch xserver xsdl app, when you see blue screen minimize app and launch termux
-widget then wait a moment, and return to xsdl app)
+widget then wait a moment, and return to xsdl app.)
 
 
 
