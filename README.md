@@ -2,8 +2,8 @@
 
 Dwarf Fortress for termux android- first i like to thanks to user Zhymabek Roman
 for his work to put exagear on android https://github.com/ZhymabekRoman
-DF for android works for rooted and no rooted android users
-Currently DF 0.47.05v2 with DF hack 0.47.05r2 are supported
+DF for android works for rooted and no rooted android users.
+Currently DF 0.47.05v2 with DF hack 0.47.05r2 are supported.
 
 Requirements
 install:
@@ -28,7 +28,7 @@ termux-setup-storage
 
 am start -a android.intent.action.VIEW -d "content://com.android.externalstorage.documents/root/primary"
 
-#copy df.tgz to termux folder via native android file manager
+#copy downloaded df.tgz to termux folder via native android file manager
 #here is link how to do it https://wiki.termux.com/wiki/Internal_and_external_storage
 
 #unpack archive with command
