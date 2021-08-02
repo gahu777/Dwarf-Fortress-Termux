@@ -20,6 +20,8 @@ https://drive.google.com/file/d/1KxYY9uN1xWXz9bIvHZ0hG56xDGnUpSFy/view?usp=drive
 
 In termux type:
 
+apt update
+
 apt-get install proot
 
 termux-setup-storage
@@ -38,6 +40,17 @@ tar -zxf df.tgz --recursive-unlink --preserve-permissions
 on your phone launcher create termux widget and launch df txt or df graphics
 (if you want sound or sound and graphics launch xserver xsdl app, when you see blue screen minimize app and launch termux
 widget then wait a moment, and return to xsdl app.)
+
+if you dont have termux widget just put tgis commands in termux
+
+cd
+
+cd .shortcuts
+
+./'DF Txt.sh'
+or
+./'DF Graphics.sh'
+
 
 
 
