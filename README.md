@@ -12,7 +12,7 @@ https://play.google.com/store/apps/details?id=com.termux.widget or newer F-droid
 optional:
 https://play.google.com/store/apps/details?id=x.org.server
 
-DF works with termux in two different way -with graphical and sound output via xserver XSDLand
+DF works with termux in two different way -with graphical and sound output via xserver XSDL
 ,or in native termux window.
 
 Download
