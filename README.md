@@ -48,7 +48,9 @@ cd
 cd .shortcuts
 
 ./'DF Txt.sh'
+
 or
+
 ./'DF Graphics.sh'
 
 
