@@ -43,6 +43,10 @@ widget then wait a moment, and return to xsdl app.)
 
 if you dont have termux widget just put this commands in termux
 
+export DISPLAY=192.0.0.2:0
+
+export PULSE_SERVER=tcp:192.0.0.2:4713
+
 cd
 
 cd .shortcuts
